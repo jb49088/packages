@@ -1,5 +1,7 @@
 ### packages
 
+Declarative package lists for multiple Linux machines
+
 <!-- CODE_STATISTICS_START -->
 
 ### Code Statistics
@@ -9,9 +11,9 @@
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
 Text                             3              0              0            185
-Markdown                         1              6              4              3
+Markdown                         1              8              4             25
 -------------------------------------------------------------------------------
-SUM:                             4              6              4            188
+SUM:                             4              8              4            210
 -------------------------------------------------------------------------------
 ```
 <!-- CODE_STATISTICS_END -->
