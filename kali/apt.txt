@@ -50,7 +50,6 @@ rsync
 seclists
 smbclient
 speedtest-cli
-speedtest-cli
 tcpdump
 tealdeer
 tree-sitter-cli
