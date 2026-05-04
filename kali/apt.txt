@@ -1,6 +1,7 @@
 awscli
 btop
 burpsuite
+caido
 cargo
 curl
 evil-winrm
