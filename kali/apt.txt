@@ -29,6 +29,7 @@ lsof
 luarocks
 make
 mariadb-client
+mimikatz
 mongodb-clients
 ncat
 netcat-traditional
