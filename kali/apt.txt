@@ -48,6 +48,7 @@ resolvconf
 responder
 restic
 ripgrep
+rlwrap
 rsync
 seclists
 smbclient
