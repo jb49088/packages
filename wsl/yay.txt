@@ -17,6 +17,7 @@ ffmpeg
 firefox
 fzf
 git
+helix
 hping
 htop
 inetutils
