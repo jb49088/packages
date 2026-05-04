@@ -64,3 +64,4 @@ whois
 windows-binaries
 wireguard-tools
 wordlists
+zaproxy
