@@ -66,5 +66,6 @@ whatweb
 whois
 windows-binaries
 wireguard-tools
+wireshark
 wordlists
 zaproxy
