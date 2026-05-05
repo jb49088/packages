@@ -3,6 +3,7 @@ curl
 dnsutils
 fastfetch
 ffmpeg
+fzf
 git
 htop
 jq
