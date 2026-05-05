@@ -8,6 +8,7 @@ evil-winrm
 fastfetch
 ffuf
 firefox-esr
+fzf
 gcc
 git
 gobuster
