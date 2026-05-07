@@ -10,10 +10,10 @@ Declarative package lists for multiple Linux machines
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
-Text                             3              0              0            195
+Text                             4              0              0            196
 Markdown                         1              8              4             25
 -------------------------------------------------------------------------------
-SUM:                             4              8              4            220
+SUM:                             5              8              4            221
 -------------------------------------------------------------------------------
 ```
 <!-- CODE_STATISTICS_END -->
@@ -25,13 +25,14 @@ SUM:                             4              8              4            220
 ```
 packages
 ├── kali
-│   └── apt.txt
+│   ├── apt.txt
+│   └── pip.txt
 ├── pi
 │   └── apt.txt
 ├── README.md
 └── wsl
     └── yay.txt
 
-4 directories, 4 files
+4 directories, 5 files
 ```
 <!-- PROJECT_STRUCTURE_END -->
