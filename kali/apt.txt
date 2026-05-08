@@ -4,7 +4,6 @@ burpsuite
 caido
 cargo
 curl
-debootstrap
 evil-winrm
 fastfetch
 ffuf
@@ -13,8 +12,6 @@ fzf
 gcc
 git
 gobuster
-golang-go
-gpg
 hashcat
 hping3
 htop
@@ -61,7 +58,6 @@ seclists
 smbclient
 speedtest-cli
 sqlmap
-squashfs-tools
 tcpdump
 tealdeer
 tftp-hpa
