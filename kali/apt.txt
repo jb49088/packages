@@ -31,6 +31,7 @@ lsof
 luarocks
 make
 mariadb-client
+masscan
 maven
 mimikatz
 mongodb-clients
