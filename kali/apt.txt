@@ -59,6 +59,7 @@ speedtest-cli
 sqlmap
 tcpdump
 tealdeer
+tftp-hpa
 tree-sitter-cli
 unzip
 usbutils
