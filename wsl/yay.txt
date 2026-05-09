@@ -47,7 +47,6 @@ python-pip
 python-pyperclip
 python-requests
 python-send2trash
-qmk
 reflector
 restic
 ripgrep
