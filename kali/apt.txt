@@ -33,6 +33,7 @@ make
 mariadb-client
 masscan
 maven
+metasploit-framework
 mimikatz
 mongodb-clients
 ncat
