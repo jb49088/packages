@@ -6,6 +6,7 @@ cargo
 curl
 evil-winrm
 fastfetch
+feroxbuster
 ffuf
 firefox-esr
 fzf
