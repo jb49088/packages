@@ -40,6 +40,7 @@ mongodb-clients
 ncat
 netcat-traditional
 nikto
+nishang
 nmap
 nodejs
 npm
