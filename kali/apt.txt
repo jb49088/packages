@@ -45,6 +45,7 @@ nodejs
 npm
 openssh-server
 openvpn
+peass
 postgresql
 proxychains4
 python3-pip
