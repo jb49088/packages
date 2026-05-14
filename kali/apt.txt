@@ -49,6 +49,7 @@ openssh-server
 openvpn
 peass
 postgresql
+powershell-empire
 proxychains4
 python3-pip
 python3-venv
