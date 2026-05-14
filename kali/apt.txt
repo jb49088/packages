@@ -1,3 +1,4 @@
+atuin
 awscli
 btop
 burpsuite
