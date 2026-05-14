@@ -1,6 +1,5 @@
 asciiquarium
 aspell
-atuin
 base
 base-devel
 bat
