@@ -1,3 +1,4 @@
+atuin
 build-essential
 curl
 dnsutils
