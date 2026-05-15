@@ -68,6 +68,7 @@ tcpdump
 tealdeer
 tftp-hpa
 tree-sitter-cli
+unicorn-magic
 unzip
 usbutils
 webshells
