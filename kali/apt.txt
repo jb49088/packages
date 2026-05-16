@@ -4,6 +4,7 @@ burpsuite
 caido
 cargo
 curl
+davtest
 evil-winrm
 fastfetch
 feroxbuster
