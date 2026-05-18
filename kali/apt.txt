@@ -5,6 +5,7 @@ caido
 cargo
 curl
 davtest
+dnsrecon
 evil-winrm
 fastfetch
 feroxbuster
