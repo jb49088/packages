@@ -50,6 +50,7 @@ npm
 openssh-server
 openvpn
 peass
+php
 postgresql
 powershell-empire
 proxychains4
