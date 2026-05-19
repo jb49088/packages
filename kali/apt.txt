@@ -82,4 +82,5 @@ windows-binaries
 wireguard-tools
 wireshark
 wordlists
+wpscan
 zaproxy
