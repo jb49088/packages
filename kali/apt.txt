@@ -21,6 +21,7 @@ htop
 hydra
 impacket-scripts
 iw
+jadx
 john
 kali-wallpapers-2019.4
 kali-wallpapers-2020.4
