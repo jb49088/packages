@@ -72,6 +72,7 @@ speedtest-cli
 sqlmap
 tcpdump
 tealdeer
+testdisk
 tftp-hpa
 tree-sitter-cli
 unicorn-magic
