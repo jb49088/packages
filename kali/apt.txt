@@ -1,4 +1,5 @@
 awscli
+binwalk
 btop
 burpsuite
 caido
