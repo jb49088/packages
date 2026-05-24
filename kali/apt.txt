@@ -54,6 +54,7 @@ peass
 php
 postgresql
 powershell-empire
+proxychains
 proxychains4
 pspy
 python2
