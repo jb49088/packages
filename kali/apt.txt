@@ -72,6 +72,7 @@ seclists
 smbclient
 speedtest-cli
 sqlmap
+sslyze
 tcpdump
 tealdeer
 testdisk
