@@ -11,6 +11,7 @@ evil-winrm
 fastfetch
 feroxbuster
 ffuf
+finger
 firefox-esr
 fzf
 gcc
