@@ -10,10 +10,10 @@ Declarative package lists for multiple Linux machines
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
-Text                             5              0              0            217
+Text                             6              0              0            218
 Markdown                         1              8              4             27
 -------------------------------------------------------------------------------
-SUM:                             6              8              4            244
+SUM:                             7              8              4            245
 -------------------------------------------------------------------------------
 ```
 <!-- CODE_STATISTICS_END -->
@@ -29,11 +29,12 @@ packages
 │   ├── pip2.txt
 │   └── pip3.txt
 ├── pi
-│   └── apt.txt
+│   ├── apt.txt
+│   └── pip3.txt
 ├── README.md
 └── wsl
     └── yay.txt
 
-4 directories, 6 files
+4 directories, 7 files
 ```
 <!-- PROJECT_STRUCTURE_END -->
