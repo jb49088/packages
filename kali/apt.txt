@@ -91,4 +91,5 @@ wireguard-tools
 wireshark
 wordlists
 wpscan
+yq
 zaproxy
