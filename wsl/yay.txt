@@ -21,6 +21,7 @@ helix
 hping
 htop
 inetutils
+jq
 kakoune
 less
 lolcat
