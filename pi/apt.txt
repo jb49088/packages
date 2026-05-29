@@ -42,6 +42,7 @@ tree-sitter-cli
 unzip
 wget
 wireguard-tools
+yq
 yt-dlp
 zip
 zsh
