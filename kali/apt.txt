@@ -25,6 +25,7 @@ impacket-scripts
 iw
 jadx
 john
+jq
 kali-wallpapers-2019.4
 kali-wallpapers-2020.4
 kali-wallpapers-2022
